@@ -8,7 +8,7 @@ Ruby-клиент для работы с API http://fotki.yandex.ru/
 
 Добавьте в Gemfile:
 
-```ruby
+ruby
 gem 'yandex-fotki'
 
 или установите вручную:
