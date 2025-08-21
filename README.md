@@ -68,7 +68,7 @@ photo = fotki.photo_get('photo_id')
 photo = fotki.photo_post(album_id: 'album_id', file: '/path/to/file')
 ```
 
-### TODO
+## TODO
 
 - обработка ошибок
 - создание, изменение, удаление альбомов
@@ -77,10 +77,11 @@ photo = fotki.photo_post(album_id: 'album_id', file: '/path/to/file')
 - получение списка фотографий по тегу
 - получение, добавление, изменение, удаление комментариев
 
-### Contributing
+## Contributing
 
 - Fork it
 - Create your feature branch (git checkout -b my-new-feature)
 - Commit your changes (git commit -am 'Add some feature')
 - Push to the branch (git push origin my-new-feature)
 - Create new Pull Request
+
